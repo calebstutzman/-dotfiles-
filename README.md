@@ -1,7 +1,7 @@
-# 🏡 dotfiles
+e 🏡 dotfiles
 My Arch Linux + i3-gaps dotfiles.
 
-Dependencies:
+### Dependencies:
 + `tamzen-font-git`<sup>AUR</sup>
 + `st`<sup>GIT</sup>
 + `polybar-git`<sup>AUR</sup>
@@ -13,5 +13,5 @@ Dependencies:
 + `siji-git`<sup>AUR</sup>
 + `noto-fonts`
 + `nerd-fonts-complete`
-+ `neovim`
++ `vim`
 
