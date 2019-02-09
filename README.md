@@ -2,16 +2,16 @@
 My Arch Linux + i3-gaps dotfiles.
 
 Dependencies:
-`tamzen-font-git`AUR
-`st`GIT
-`polybar-git`AUR
-`feh`
-`unclutter`
-`python-pywal`AUR
-`ttf-unifont`
-`ttf-linux-libertine`
-`siji-git`AUR
-`noto-fonts`
-`nerd-fonts-complete`
-`neovim`
++`tamzen-font-git`<sup>AUR</sup>
++`st`<sup>GIT</sup>
++`polybar-git`<sup>AUR</sup>
++`feh`
++`unclutter`
++`python-pywal`<sup>AUR</sup>
++`ttf-unifont`
++`ttf-linux-libertine`
++`siji-git`<sup>AUR</sup>
++`noto-fonts`
++`nerd-fonts-complete`
++`neovim`
 
