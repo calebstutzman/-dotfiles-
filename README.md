@@ -2,6 +2,7 @@
 My Arch Linux + i3-gaps dotfiles.
 
 ![image not found](https://github.com/calebstutzman/dotfiles/blob/master/empty.jpg "Here is the desktop empty")
+![image not found](https://github.com/calebstutzman/dotfiles/blob/master/full.jpg "Here is the desktop full")
 
 ### Dependencies:
 + `st`<sup>GIT</sup>
