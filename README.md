@@ -1,6 +1,8 @@
 🏡 dotfiles
 My Arch Linux + i3-gaps dotfiles.
 
+![image not found](https://github.com/calebstutzman/dotfiles/blob/master/empty.jpg "Here is the desktop empty")
+
 ### Dependencies:
 + `st`<sup>GIT</sup>
 + `polybar-git`<sup>AUR</sup>
